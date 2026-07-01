@@ -29,6 +29,6 @@ names:
   27: sugar
   28: sweet_potato
   29: tomato
-path: /content/drive/MyDrive/Intelligent_System/training/dataset_kfold/iter_4
+path: ./dataset_kfold/iter_4
 train: train/images
 val: val/images
